@@ -1,7 +1,7 @@
 ### API Rest
 
 Api rest para cadastro de clientes e seus respectivos endereços.
-Endereços capturados através do consumo da API [ViaCep API](https://viacep.com.br/ms).
+Endereços capturados através do consumo da API [ViaCep API](https://viacep.com.br/).
 
 ---
 ### Visualizar
